@@ -2,7 +2,7 @@
 
 Hi! My name's Kyle Nguyen 😊. Welcome to my GitHub profile!
 
-Technologies I'm currently inrerested in:
+Technologies I'm currently interested in:
  - 🕹️ Video game technologies
  - 💻 Linux and its application in everyday life
  - 🍎 Damped Harmonic Oscillators and their use in animation
