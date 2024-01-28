@@ -6,13 +6,10 @@
 </p>
 
 ## Autobiography 🏳️‍🌈
-✌ Hey there! I'm *Kyle Nguyen* or <ins>KuNet</ins> on the internet 😊!
-
-I have a general passion 💟 for technology and programming 💻. Feel free to reach out!
-
-Using GitHub 🐙 as a way to find cool emerging projects 🏆 and as a way to *learn open source*. 🚀
-
-💤 Sometimes, I even [blog](https://blog.kunet.dev) 📑!
+- ✌ Hey there! I'm *Kyle Nguyen* or <ins>KuNet</ins> on the internet 😊!
+- I have a general passion 💟 for technology and programming 💻. Feel free to reach out!
+- Using GitHub 🐙 as a way to find cool emerging projects 🏆 and as a way to *learn open source*. 🚀
+- 💤 Sometimes, I even [blog](https://blog.kunet.dev) 📑!
 
 ## Contact Information ☎️
 *You are free to contact me for any reason except for solicitation or harassment* 🚫
