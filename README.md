@@ -14,8 +14,8 @@ Using GitHub 🐙 as a way to find cool emerging projects 🏆 and as a way to *
 
 💤 Sometimes, I even [blog](https://blog.kunet.dev) 📑.
 
-## Contact Information
-*You are free to contact me for any reason except for solicitation or harassment*
+## Contact Information ☎️
+*You are free to contact me for any reason except for solicitation or harassment 🚫*
 - 💟 Discord: `@kunet` (response: within a few waking hours)
 - ♻️ Matrix: `@kunet:matrix.org` (response: within the week)
 - 📮 E-Mail: `kunet.nguyen@gmail.com` (response: good luck)
