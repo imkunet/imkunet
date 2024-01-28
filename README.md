@@ -1,4 +1,4 @@
-# [![imkunet](banner.svg)](https://github.com/imkunet/)
+# [![imkunet](header.svg)](https://github.com/imkunet/)
 *<p align="center">Welcome to my GitHub page!</p>*
 <p align="center">
   <img src="https://img.shields.io/github/followers/imkunet" alt="GitHub Followers" />
