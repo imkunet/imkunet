@@ -1,4 +1,4 @@
-# [![imkunet](header.svg)](https://github.com/imkunet/)
+# [![imkunet](header.svg)](#)
 *<p align="center">Welcome to my GitHub page!</p>*
 <p align="center">
   <img src="https://img.shields.io/github/followers/imkunet" alt="GitHub Followers" />
@@ -12,7 +12,7 @@
 - 💤 Sometimes, I even [blog](https://blog.kunet.dev) 📑!
 
 ## Contact Information ☎️
-*You are free to contact me for any reason except for solicitation or harassment* 🚫
+*You are free to contact me for any reason except for solicitation or harassment!* 🚫
 - 💟 Discord: `@kunet` (response: within a few waking hours)
 - ♻️ Matrix: `@kunet:matrix.org` (response: within the week)
 - 📮 E-Mail: `kunet.nguyen@gmail.com` (response: good luck)
@@ -20,9 +20,11 @@
 ---
 
 <p align="center">
-    <img src="https://api.githubtrends.io/user/svg/imkunet/langs?time_range=one_year&theme=dark" alt="Github Trends" />
+    <a href="https://githubtrends.io/">
+      <img src="https://api.githubtrends.io/user/svg/imkunet/langs?time_range=one_year&theme=dark" alt="Github Trends" />
+    </a>
 </p>
 
 ---
 
-# [![bottom](bottom.svg)](https://github.com/imkunet?tab=repositories)
+# [![bottom](bottom.svg)](#)
