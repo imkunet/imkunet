@@ -27,4 +27,4 @@
 
 ---
 
-# [![bottom](bottom.svg)](#)
+<!--# [![bottom](bottom.svg)](#) this image sucks lol-->
